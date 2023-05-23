@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/hamcrest-2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/junit-4.13.2 (1).jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/selenium-chrome-driver-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-java-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-api-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-http-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-safari-driver-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v109-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-chromium-driver-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v85-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-edge-driver-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-support-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v110-4.8.3.jar!/" />
+          <root url="file://$MODULE_DIR$/lib/lib" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v111-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-manager-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-json-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-remote-driver-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-ie-driver-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-firefox-driver-4.8.3.jar!/" />
+          <root url="file://$MODULE_DIR$/../PPP" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v85-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-chromium-driver-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-edge-driver-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-ie-driver-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-api-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-http-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-support-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-json-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v109-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v111-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-chrome-driver-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-remote-driver-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-firefox-driver-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-safari-driver-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-manager-4.8.3-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v110-4.8.3-sources.jar!/" />
+          <root url="file://$MODULE_DIR$/../PPP/src/main/java" />
+          <root url="file://$MODULE_DIR$/../PPP/src/test/java" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/lib/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
